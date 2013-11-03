@@ -1,0 +1,1 @@
+It's been twelve weeks since I last took on a challenging Ruby problem. In the interim there has been lots of Sinatra, a fair bit of JavaScript, an introduction to Rails, and a start to testing with Rspec and Capybara. Here's my effort at aolving Sudoku.
